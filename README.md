@@ -1,7 +1,7 @@
 # FOSTRIS
 Fostrande
 
-supports the base64 set of chars
+supports the base64 set of chars and spaces ( because why not ¯\\_(ツ)_/¯ )
 ```
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
 ```
