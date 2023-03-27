@@ -1,4 +1,4 @@
-# FOSTRIS
+# FOSTRIS [![Build and Test](https://github.com/phille97/fostris/actions/workflows/qa.yml/badge.svg)](https://github.com/phille97/fostris/actions/workflows/qa.yml)
 Fostrande
 
 Demo: https://go.dev/play/p/MBJvtEikqRZ
