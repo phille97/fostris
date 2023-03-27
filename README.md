@@ -1,6 +1,8 @@
 # FOSTRIS
 Fostrande
 
+Demo: https://go.dev/play/p/MBJvtEikqRZ
+
 supports the base64 set of chars and spaces ( because why not ¯\\_(ツ)_/¯ )
 ```
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
