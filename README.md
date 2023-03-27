@@ -1,4 +1,4 @@
-# FOSTRIS [![Build and Test](https://github.com/phille97/fostris/actions/workflows/qa.yml/badge.svg)](https://github.com/phille97/fostris/actions/workflows/qa.yml)
+# FOSTRIS [![Build and Test](https://github.com/phille97/fostris/actions/workflows/qa.yml/badge.svg?branch=master)](https://github.com/phille97/fostris/actions/workflows/qa.yml) [![Go Report Card](https://goreportcard.com/badge/github.com/phille97/fostris)](https://goreportcard.com/report/github.com/phille97/fostris)
 Fostrande
 
 Demo: https://go.dev/play/p/MBJvtEikqRZ
